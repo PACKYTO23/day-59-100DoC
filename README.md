@@ -5,3 +5,4 @@ Day 59 - Advanced Blog Capstone Project Part 2
 
 Specific (and short) notes and titles written in main.py.
   Unfinished practice (10/07/2024); update tomorrow.
+    Finished practice (11/07/2024); updated.
